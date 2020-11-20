@@ -1,0 +1,228 @@
+#navigation-bar{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size:1.5rem;
+}
+body{
+  background-color:#363838;
+}
+.tt{
+  position:absolute;
+  right:30px;
+  top:20px;
+}
+.arijit{
+  height:200px;
+  width:200px;
+  border-style: solid;
+      padding:10px;
+  border-color: black;
+  margin:10px;
+  border-radius:100%;
+}
+.jubin{
+  height:200px;
+  width:200px;
+  border-style: solid;
+      padding:10px;
+  border-color: black;
+  margin:10px;
+  border-radius:100%;
+}
+.shreya{
+  height:200px;
+  width:200px;
+  border-style: solid;
+      padding:10px;
+  border-color: black;
+  margin:10px;
+  border-radius:100%;
+
+}
+.mohit-chauhan{
+  height:200px;
+  width:200px;
+  border-style: solid;
+      padding:10px;
+  border-color: black;
+  margin:10px;
+  border-radius:100%;
+}
+.row{
+  padding-left:10%;
+  padding-right:10%;
+}
+.jj{
+  border-style: hidden;
+  border-color: black
+  margin:10px;
+}
+.jj:hover{
+  background-color:#F1FF0D;
+  color:black;
+  border-radius:40px 40px 40px 40px ;
+;
+}
+.ff{
+  text-align: center;
+  align-items: center;
+}
+#singers{
+background-color:#363838;
+height:90px;
+padding-top:20px;
+font-size: 3.5rem;
+color:white;
+margin-top:10px;
+
+
+}
+.pj{
+  background-color:#363838;
+}
+.keto{
+    background-color:#363838;
+    margin-top:20px;
+    padding-top:50px;
+}
+.navigation-bar{
+  padding-bottom:10px;
+}
+#topsinger{
+  padding-left:40px;
+}
+#sargam{
+  padding-left:30px;
+  margin-left:50px;
+}
+#sargam-logo{
+  border-radius:100%;
+    margin-left:270px;
+}
+#download{
+  background-color:#363838;
+  color:white;
+  padding:10px;
+  margin-top:10px;
+}
+.btn-lg{
+  padding:10px;
+  margin:10px;
+}
+#mobile-app{
+      font-family: 'Ubuntu Condensed', sans-serif;
+}
+.director:hover{
+  background-color:#F1FF0D;
+
+}
+.boom{
+  border-style:none;
+  border-top-style: dotted;
+  height:50px;
+  width:30%;
+  border-color:black;
+
+}
+.goat{
+    background-color:#F1FF0D;
+  
+    padding:5% 5%;
+    border-radius:40px;
+    margin:4%;
+    position:relative;
+    bottom:100px;
+}
+.topsingers{
+
+    font-family: 'Abril Fatface', cursive;
+      font-size:3.5rem;
+      padding-left:50px;
+      font-style: bold;
+      background-color:#F1FF0D;
+      border-radius:40px;
+      color:#363838
+      height:100px;
+
+}
+#copy{
+  height:140px;
+  background-color:#363838;
+  color:white;
+  padding-left:150px;
+}
+.footer-link{
+  padding:50px;
+  text-align: center;
+  position:relative;
+left:300px;
+
+}
+#sargam{
+  padding:10% ;
+  font-size:3.5rem;
+}
+#podcast{
+    font-family: 'Abril Fatface', cursive;
+    font-size:3rem;
+    padding:40px;
+}
+#pi{
+  height:200px;
+  width:200px;
+  border-style: solid;
+      padding:10px;
+  border-color: black;
+  margin:10px;
+  border-radius:100%;
+}
+#ad{
+  font-size:2rem;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    highlight:white;
+    color:orange;
+}
+.col-lg-4:hover{
+background-color:#363838;
+color:white;
+border-radius:40px 40px 40px 40px ;
+
+}
+.col-lg-3:hover{
+background-color:#363838;
+color:white;
+border-radius:40px 40px 40px 40px ;
+
+}
+.dan{
+border-radius:40px 0 40px 0 ;
+}
+#kim{
+  padding:5%;
+}
+.bob{
+  background-color:BLACK;
+}
+.hrt{
+  border-color:#F1FF0D;
+}
+.btn{
+margin:20px;
+}
+.tan{
+  background-color:#F1FF0D;
+}.zz:hover{
+  background-color:#F1FF0D;
+  color:white;
+  border-radius:40px 40px 40px 40px ;
+
+}
+.black{
+  background-color:#F6FE75;
+  color:black;
+  border-radius:40px 40px 40px 40px ;
+
+}
+.dip{
+  margin-style:solid;
+  margin-color:black;
+}
